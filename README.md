@@ -74,3 +74,7 @@ El dashboard incluye:
 - Filtros dinámicos por equipo  
 - Botón para restablecer filtros  
 - Interacción entre visualizaciones  
+
+## 📊 Ver dashboard interactivo
+
+[Ver en Power BI](https://app.powerbi.com/groups/me/reports/8adce53a-dec3-489e-a6b4-a42b2982888d/a6bdd25bddf9383e6cf7?experience=power-bi&bookmarkGuid=3860f283dee4bb02d87f)
