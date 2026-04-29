@@ -74,6 +74,3 @@ El dashboard incluye:
 - Filtros dinámicos por equipo  
 - Botón para restablecer filtros  
 - Interacción entre visualizaciones  
-
-
-## 📁 Estructura del Repositorio
